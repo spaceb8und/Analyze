@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "xGk4fEZAzvQsroL4eK5s3jMesM5egj2nlhG7eeYYAFLBrdL0OBQ/YGpAZIprIWlQj5RXYv0ZwF16SGZu8wJa2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d.dubrovin\\RiderProjects\\ConsoleApp1\\ConsoleApp27\\ConsoleApp27.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d.dubrovin\\.nuget\\packages\\consolehelper\\1.2.0\\consolehelper.1.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ConsoleHelper 1.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ConsoleHelper",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

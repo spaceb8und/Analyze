@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ConsoleHelper/1.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/ConsoleHelper.dll": {}
+        },
+        "runtime": {
+          "lib/ConsoleHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleHelper/1.2.0": {
+      "sha512": "5meDSbyrPitMH8TjovFozB32VHHOkuQvGZQr8hgjpxa4f4VkNbnKilOMBtgA/uF+wz2OmIXnOq8NSJBhNZ8GbQ==",
+      "type": "package",
+      "path": "consolehelper/1.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CreateNuGetPackage.cmd",
+        "IInputCommand.cs",
+        "NuGet.Config",
+        "NuGet.exe",
+        "NuGet.targets",
+        "consolehelper.1.2.0.nupkg.sha512",
+        "consolehelper.nuspec",
+        "lib/ConsoleHelper.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ConsoleHelper >= 1.2.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\d.dubrovin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\d.dubrovin\\RiderProjects\\ConsoleApp1\\ConsoleApp27\\ConsoleApp27.csproj",
+      "projectName": "ConsoleApp27",
+      "projectPath": "C:\\Users\\d.dubrovin\\RiderProjects\\ConsoleApp1\\ConsoleApp27\\ConsoleApp27.csproj",
+      "packagesPath": "C:\\Users\\d.dubrovin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\d.dubrovin\\RiderProjects\\ConsoleApp1\\ConsoleApp27\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\d.dubrovin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "ConsoleHelper": {
+            "target": "Package",
+            "version": "[1.2.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ConsoleHelper 1.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ConsoleHelper",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

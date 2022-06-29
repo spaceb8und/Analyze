@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApp27/1.0.0": {
+        "dependencies": {
+          "ConsoleHelper": "1.2.0"
+        },
+        "runtime": {
+          "ConsoleApp27.dll": {}
+        }
+      },
+      "ConsoleHelper/1.2.0": {
+        "runtime": {
+          "lib/ConsoleHelper.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp27/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleHelper/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5meDSbyrPitMH8TjovFozB32VHHOkuQvGZQr8hgjpxa4f4VkNbnKilOMBtgA/uF+wz2OmIXnOq8NSJBhNZ8GbQ==",
+      "path": "consolehelper/1.2.0",
+      "hashPath": "consolehelper.1.2.0.nupkg.sha512"
+    }
+  }
+}
