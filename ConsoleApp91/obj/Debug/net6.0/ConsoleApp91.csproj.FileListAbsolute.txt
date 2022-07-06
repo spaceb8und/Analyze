@@ -1,0 +1,15 @@
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp91\obj\Debug\net6.0\ConsoleApp91.csproj.AssemblyReference.cache
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp91\obj\Debug\net6.0\ConsoleApp91.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp91\obj\Debug\net6.0\ConsoleApp91.AssemblyInfoInputs.cache
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp91\obj\Debug\net6.0\ConsoleApp91.AssemblyInfo.cs
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp91\obj\Debug\net6.0\ConsoleApp91.csproj.CoreCompileInputs.cache
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp91\bin\Debug\net6.0\ConsoleApp91.exe
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp91\bin\Debug\net6.0\ConsoleApp91.deps.json
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp91\bin\Debug\net6.0\ConsoleApp91.runtimeconfig.json
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp91\bin\Debug\net6.0\ConsoleApp91.dll
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp91\bin\Debug\net6.0\ConsoleApp91.pdb
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp91\obj\Debug\net6.0\ConsoleApp91.dll
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp91\obj\Debug\net6.0\refint\ConsoleApp91.dll
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp91\obj\Debug\net6.0\ConsoleApp91.pdb
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp91\obj\Debug\net6.0\ConsoleApp91.genruntimeconfig.cache
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp91\obj\Debug\net6.0\ref\ConsoleApp91.dll

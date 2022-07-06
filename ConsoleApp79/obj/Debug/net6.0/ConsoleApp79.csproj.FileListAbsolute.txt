@@ -1,0 +1,15 @@
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp79\bin\Debug\net6.0\ConsoleApp79.exe
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp79\bin\Debug\net6.0\ConsoleApp79.deps.json
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp79\bin\Debug\net6.0\ConsoleApp79.runtimeconfig.json
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp79\bin\Debug\net6.0\ConsoleApp79.dll
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp79\bin\Debug\net6.0\ConsoleApp79.pdb
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp79\obj\Debug\net6.0\ConsoleApp79.csproj.AssemblyReference.cache
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp79\obj\Debug\net6.0\ConsoleApp79.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp79\obj\Debug\net6.0\ConsoleApp79.AssemblyInfoInputs.cache
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp79\obj\Debug\net6.0\ConsoleApp79.AssemblyInfo.cs
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp79\obj\Debug\net6.0\ConsoleApp79.csproj.CoreCompileInputs.cache
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp79\obj\Debug\net6.0\ConsoleApp79.dll
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp79\obj\Debug\net6.0\refint\ConsoleApp79.dll
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp79\obj\Debug\net6.0\ConsoleApp79.pdb
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp79\obj\Debug\net6.0\ConsoleApp79.genruntimeconfig.cache
+C:\Users\d.dubrovin\RiderProjects\ConsoleApp1\ConsoleApp79\obj\Debug\net6.0\ref\ConsoleApp79.dll
